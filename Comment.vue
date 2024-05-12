@@ -1,7 +1,7 @@
 <template>
     <div></div>
 </template>
-  
+
 <script>
 import {
     provider,
@@ -9,7 +9,7 @@ import {
     loadScript,
 } from './util'
 
-const commentDomID = 'vuepress-plugin-vdoing-comment'
+const commentDomID = 'vuepress-plugin-vdoing-comment-eryajf'
 let timer = null
 
 export default {
@@ -52,7 +52,7 @@ function clear(frontmatter) {
             console.log(el)
             return provider.valine.clear(el)
         case 'artalk':
-            return provider.artalk.clear(commentDomID)    
+            return provider.artalk.clear(commentDomID)
         default: return false
     }
 }
