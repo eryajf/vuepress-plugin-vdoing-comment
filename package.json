@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-vdoing-comment",
+  "name": "vuepress-plugin-vdoing-comment-eryajf",
   "version": "1.2.0",
   "description": "Comment plugin in vuepress vdoing theme, supports Gitalk, Valine, Artalk...",
   "main": "index.js",
