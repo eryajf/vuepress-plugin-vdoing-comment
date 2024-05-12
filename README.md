@@ -1,3 +1,5 @@
+fork by https://github.com/terwer/vuepress-plugin-vdoing-comment
+
 # vuepress-plugin-vdoing-comment
 
 [![](https://img.shields.io/badge/online-preview-faad14.svg?style=popout-square)](https://terwer.space/post/hello-world.html)
@@ -208,8 +210,8 @@ For example:
 ```yml
 ---
 comment: false
-# comments: false 
+# comments: false
 ---
 ```
 
-Comment won't appear in the page of this passage. 
+Comment won't appear in the page of this passage.
